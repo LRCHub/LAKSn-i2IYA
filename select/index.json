@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Rainy Days",
+  "base_artist": "V",
+  "createdAt": "2026-02-28T06:56:58.264830Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rainy Days",
+      "artist": "Ice MC",
+      "has_synced": false,
+      "path": "select/01_Rainy_Days_Ice_MC.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rainy Days And Mondays",
+      "artist": "Carpenters",
+      "has_synced": false,
+      "path": "select/02_Rainy_Days_And_Mondays_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rainy Days And Mondays",
+      "artist": "The Carpenters",
+      "has_synced": true,
+      "path": "select/03_Rainy_Days_And_Mondays_The_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rainy Days and Mondays",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/04_Rainy_Days_and_Mondays_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rainy Days And Mondays (1991 Remix)",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/05_Rainy_Days_And_Mondays_(1991_Remix)_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nine Million Rainy Days",
+      "artist": "The Jesus and Mary Chain",
+      "has_synced": false,
+      "path": "select/06_Nine_Million_Rainy_Days_The_Jesus_and_Mary_Chain.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rainy Days and Mondays",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/07_Rainy_Days_and_Mondays_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dear Alice (rainy days)",
+      "artist": "arai tasuku",
+      "has_synced": true,
+      "path": "select/08_Dear_Alice_(rainy_days)_arai_tasuku.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Medley: Superstar/Rainy Days And Mondays",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/09_Medley__Superstar_Rainy_Days_And_Mondays_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rainy Days And Mondays",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/10_Rainy_Days_And_Mondays_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Count The Rainy Days",
+      "artist": "Michael Martin Murphey",
+      "has_synced": true,
+      "path": "select/11_Don't_Count_The_Rainy_Days_Michael_Martin_Murphey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rainy Days And Mondays",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/12_Rainy_Days_And_Mondays_Carpenters.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rainy Days",
+      "artist": "V",
+      "has_synced": false,
+      "path": "select/pl_01_Rainy_Days_V.txt"
+    }
+  ]
+}
