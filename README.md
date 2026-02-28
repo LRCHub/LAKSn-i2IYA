@@ -1,0 +1,74 @@
+# V – Rainy Days
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Rainy days
+I'm thinking 'bout you
+What to say
+Wish I knew how to
+Find the way
+Right back to you
+On rainy days like
+Rainy days
+I'm thinking 'bout you
+What to say
+Wish I knew how to
+Find the way
+Right back to you
+On rainy days like
+Staring at my phone
+난 깨있지
+Hoping for your call lately
+I've been on my own maybe
+이젠 지난
+일에 맨날
+Time with you was so amazing
+Haven't changed it's still the
+same me
+늦었지만 우리 다시
+Can we go back to that moment
+again yeah
+Rainy days
+I'm thinking 'bout you
+What to say
+Wish I knew how to
+Find the way
+Right back to you
+On rainy days like
+Rainy days
+I'm thinking 'bout you
+What to say
+Wish I knew how to
+Find the way
+Right back to you
+On rainy days like
+Remember how I used to make you
+laugh the most
+내가 이런 말 할 자격 없어도
+Let me make up for all
+the time we lost
+We can start again,
+open all the doors
+Don't tell me it’s over
+We can start it over
+너는 나의 네 잎 clover
+Yeah, I can feel your touch
+I remember your kiss
+그 말은 아팠지
+And I miss you
+Rainy days
+I'm thinking 'bout you
+What to say
+Wish I knew how to
+Find the way
+Right back to you
+On rainy days like
+Rainy days
+I'm thinking 'bout you
+What to say
+Wish I knew how to
+Find the way
+Right back to you
+On rainy days like
+```
